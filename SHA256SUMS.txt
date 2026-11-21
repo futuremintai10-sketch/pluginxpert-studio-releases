@@ -1,0 +1,3 @@
+0ac2e5c25d3f6db5de04081730aa22ba79c30e5693ff0c551626afabdac394d7  PluginXpert-Studio-Setup-2.1.1.exe
+0f002b33cb1eabc6964c22a69ef3606a578987d46938cb4af934d93e5196ecfc  PluginXpert-Studio-2.1.1-intel.dmg
+c1d2af1090d6c6fdfd637bc2e4ca08b64f8fe39e5e2440a2577443df1e6968e1  PluginXpert-Studio-2.1.1-apple-silicon.dmg
